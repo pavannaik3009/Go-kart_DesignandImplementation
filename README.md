@@ -1,0 +1,1 @@
+This repository consists of a C program for sensors integrated to a Go-kart using Arduino Mega 2560 Rev3 AND Arduino Pro Mini as part of team Aryan Racing.
